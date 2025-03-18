@@ -1,4 +1,4 @@
-module github.com/lwmacct/250318-m-ksoflow
+module github.com/lwmacct/250300-go-mod-mflag
 
 go 1.24.0
 
